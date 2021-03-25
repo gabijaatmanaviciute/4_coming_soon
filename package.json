@@ -1,0 +1,23 @@
+{
+  "name": "4_coming_soon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=5500",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabijaatmanaviciute/4_coming_soon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabijaatmanaviciute/4_coming_soon/issues"
+  },
+  "homepage": "https://github.com/gabijaatmanaviciute/4_coming_soon#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
